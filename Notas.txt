@@ -1,0 +1,21 @@
+Etiquetas de texto HTML
+strong: Sirve para poner un texto en negrita
+em: colocar texto en italico
+a: Etiqueta para redireccionar a otros links
+display inline block: ocupa el tamaño de su contenido block ocupa el 100%
+A crear una tabla HTML.
+La etiqueta table, representa la tabla.
+La etiqueta tr, representa la fila de la tabla.
+La etiqueta td, representa la celda de la tabla.
+La etiqueta thead, representa el encabezado de la tabla.
+La etiqueta tbody, representa el cuerpo de la tabla.
+La etiqueta th, representa la celda del encabezado de la tabla.
+La etiqueta tfoot, representa el pie de página de la tabla.
+A colocar los estilos respectivos a nuestra tabla.
+Estilos
+padding: para espaciados internos
+margin: para espaciados externos
+text-transform: uppercase, transforma el texto a mayusculas
+font-weight: bold; transforma el texto en negrita
+text-decoration: none; quita numeracion de las listas 
+float : Colocar el elemento en la lateral de nuestra página y dejar los otros elementos alrededor de él.
